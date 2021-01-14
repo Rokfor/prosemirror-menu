@@ -19,9 +19,9 @@
   },
   "dependencies": {
     "crelt": "^1.0.0",
-    "prosemirror-state": "^1.0.0",
-    "prosemirror-commands": "^1.0.0",
-    "prosemirror-history": "^1.0.0"
+    "prosemirror-commands": "^1.1.5",
+    "prosemirror-history": "^1.0.0",
+    "prosemirror-state": "^1.0.0"
   },
   "devDependencies": {
     "rollup": "^2.26.3",
