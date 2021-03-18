@@ -359,7 +359,7 @@ export const icons = {
   },
   desriptionList: {
     width: 768, height: 896,
-    path: "M282,340h394v-85H282V340z M282,510h394v-85H282V510z M171,85v85h297V85H171z"
+    path: "M0 256h128v-128h-128v128zM0 512h512v-128h-512v128zM256 256h512v-128h-512v128zM256 768h512v-128h-512v128z"
   },
   orderedList: {
     width: 768, height: 896,
